@@ -1,0 +1,17 @@
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\obj\Debug\MainWindow.g.cs
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\obj\Debug\App.g.cs
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\obj\Debug\WPFMVVMCRUD_MarkupCompile.cache
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\obj\Debug\WPFMVVMCRUD_MarkupCompile.lref
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\bin\Debug\WPFMVVMCRUD.exe.config
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\bin\Debug\WPFMVVMCRUD.exe
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\bin\Debug\WPFMVVMCRUD.pdb
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\obj\Debug\MainWindow.baml
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\obj\Debug\WPFMVVMCRUD.g.resources
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\obj\Debug\WPFMVVMCRUD.Properties.Resources.resources
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\obj\Debug\WPFMVVMCRUD.csproj.GenerateResource.cache
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\obj\Debug\WPFMVVMCRUD.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\obj\Debug\WPFMVVMCRUD.exe
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\obj\Debug\WPFMVVMCRUD.pdb
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\obj\Debug\WPFMVVMCRUD.csprojAssemblyReference.cache
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\obj\Debug\FuncionarioWindow.g.cs
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\obj\Debug\FuncionarioWindow.baml
