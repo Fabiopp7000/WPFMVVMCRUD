@@ -15,3 +15,17 @@ C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\obj\Debug\WPFMVVMCRUD.pdb
 C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\obj\Debug\WPFMVVMCRUD.csprojAssemblyReference.cache
 C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\obj\Debug\FuncionarioWindow.g.cs
 C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\obj\Debug\FuncionarioWindow.baml
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\bin\Debug\CommonServiceLocator.dll
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\obj\Debug\App.baml
+C:\Users\fabio\source\repos\WPFMVVMCRUD\WPFMVVMCRUD\obj\Debug\WPFMVVMCRUD.csproj.CopyComplete

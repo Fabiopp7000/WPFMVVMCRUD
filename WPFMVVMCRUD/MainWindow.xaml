@@ -5,7 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPFMVVMCRUD"
         mc:Ignorable="d"
-        Title="Lista de Funcionários" Height="350" Width="525">
+        Title="Lista de Funcionários"
+        Height="350" Width="525"
+        DataContext="{Binding Path=Funcionarios, Source={StaticResource Locator}}">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
